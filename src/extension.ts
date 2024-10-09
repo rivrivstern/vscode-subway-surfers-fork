@@ -19,7 +19,7 @@ const internalVideoSources: VideoSource[] = [
     },
     {
         label: "Minecraft Parkour",
-        videos: ["intRX7BRA90", "n_Dv4JMiwK8", "GTaXbH6iSFA", "t3SpmH9QQew"],
+        videos: ["REuKymvrrqk"],
         width: 600,
         muted: true
     },
